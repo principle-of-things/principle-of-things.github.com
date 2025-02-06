@@ -3,6 +3,7 @@
 - [日本語](ja.md)
 - [Español](es.md)
 - [English](en.md)
+- [中文](zh.md)
 
 ## Contributing
 

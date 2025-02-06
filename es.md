@@ -1,4 +1,4 @@
-[[日本語](ja.md)] [Español] [[English](en.md)]
+[[日本語](ja.md)] [Español] [[English](en.md)] [[中文](zh.md)]
 
 # [3 Principios de las Cosas](https://principle-of-things.github.io/)
 
