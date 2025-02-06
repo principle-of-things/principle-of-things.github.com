@@ -1,6 +1,5 @@
 
 [日本語] [[English](en.md)] [[Español](es.md)]
-![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)
 
 # [モノの 3 原則](https://principle-of-things.github.io/)
 
@@ -14,4 +13,5 @@
 
 知識や経験を得る時間がない人は、プロにお願いして時間を買うしかありません。しかし、時間をかけて試行錯誤して得たノウハウは、末長くモノを使い続けるために、本当の意味でサステナブルなものだと思います。
 
-- [CC BY 4.0; https://principle-of-things.github.io/](https://principle-of-things.github.io/)
+- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
