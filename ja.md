@@ -1,5 +1,5 @@
 
-[日本語] [[English](en.md)] [[Español](es.md)]
+[日本語] [[Español](es.md)] [[English](en.md)]
 
 # [モノの 3 原則](https://principle-of-things.github.io/)
 

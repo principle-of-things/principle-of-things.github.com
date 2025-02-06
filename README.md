@@ -6,8 +6,8 @@
 
 ## Contributing
 
-- Pull Request: `main` branch
-- If the PR is for an additional language, ensure that it is of comparable quality to the existing languages.
+- [Contibute/Issue](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/CONTRIBUTING.md) (add another language, fix typos or grammar, opinion, etc.)
+- [Contributors](https://github.com/principle-of-things/principle-of-things.github.com/graphs/contributors) (Authors)
 
 ## LICENSE
 
