@@ -6,7 +6,8 @@
 - in [日本語](https://principle-of-things.github.io/ja.html) ( [ja.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/ja.md) )
 - in [Español](https://principle-of-things.github.io/es.html) ( [es.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/es.md) )
 - in [English](https://principle-of-things.github.io/en.html) ( [en.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/en.md) )
-- in [中文](https://principle-of-things.github.io/zh.html) ( [zh.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/zh.m) )
+- in [中文 (简体)](https://principle-of-things.github.io/zh-cn.html) ( [zh-cn.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/zh-cn.md) )
+- in [中文 (繁體)](https://principle-of-things.github.io/zh-tw.html) ( [zh-tw.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/zh-tw.md) )
 
 ## Contributing
 
