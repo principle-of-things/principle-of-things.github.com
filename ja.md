@@ -1,4 +1,4 @@
-[日本語] [[Español](es.md)] [[English](en.md)] [[中文（繁體）](zh-tw.md)] [[中文（简体）](zh-cn.md)]
+[日本語] [[Español](es.md)] [[English](en.md)] [[中文（繁體）](zh-tw.md)] [[中文（简体）](zh-cn.md)] [[Deutsch](de.md)]
 
 ---
 
