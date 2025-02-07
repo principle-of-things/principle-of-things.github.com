@@ -1,9 +1,12 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+
 # Principles of Things
 
-- [日本語](ja.md)
-- [Español](es.md)
-- [English](en.md)
-- [中文](zh.md)
+- in [日本語](https://principle-of-things.github.io/ja.html) ( [ja.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/ja.md) )
+- in [Español](https://principle-of-things.github.io/es.html) ( [es.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/es.md) )
+- in [English](https://principle-of-things.github.io/en.html) ( [en.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/en.md) )
+- in [中文](https://principle-of-things.github.io/zh.html) ( [zh.md](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/zh.m) )
 
 ## Contributing
 
