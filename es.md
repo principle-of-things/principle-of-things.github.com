@@ -1,4 +1,6 @@
-[[日本語](ja.md)] [Español] [[English](en.md)] [[中文 (繁體)](zh-tw.md)] [中文 (简体)](zh-cn.md)
+[[日本語](ja.md)] [Español] [[English](en.md)] [[中文（繁體）](zh-tw.md)] [[中文（简体）](zh-cn.md)]
+
+---
 
 # [3 Principios de las Cosas](https://principle-of-things.github.io/)
 
@@ -12,5 +14,7 @@ Ya sea una computadora, un electrodoméstico, un mueble o un coche, cualquier **
 
 Para aquellos que no tienen tiempo para adquirir conocimientos o experiencia, la única opción es contratar a un profesional y comprar tiempo. Sin embargo, el conocimiento adquirido a través de la prueba y el error con el tiempo es verdaderamente sostenible para el uso a largo plazo de las cosas.
 
-- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)

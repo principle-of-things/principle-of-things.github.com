@@ -1,4 +1,6 @@
-[[日本語](ja.md)] [[Español](es.md)] [[English](en.md)] [中文 (繁體)] [[中文 (简体)](zh-cn.md)]
+[[日本語](ja.md)] [[Español](es.md)] [[English](en.md)] [中文（繁體）] [[中文（简体）](zh-cn.md)]
+
+---
 
 # [事物的三原則](https://principle-of-things.github.io/)
 
@@ -12,5 +14,7 @@
 
 對於那些沒有時間獲取知識或經驗的人來說，唯一的選擇是支付專業人士來購買時間。然而，通過時間和試錯獲得的知識確實是長期使用物品的可持續方法。
 
-- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)

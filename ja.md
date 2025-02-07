@@ -1,4 +1,6 @@
-[日本語] [[Español](es.md)] [[English](en.md)] [[中文 (繁體)](zh-tw.md)] [中文 (简体)](zh-cn.md)
+[日本語] [[Español](es.md)] [[English](en.md)] [[中文（繁體）](zh-tw.md)] [[中文（简体）](zh-cn.md)]
+
+---
 
 # [モノの 3 原則](https://principle-of-things.github.io/)
 
@@ -12,5 +14,7 @@
 
 知識や経験を得る時間がない人は、プロにお願いして時間を買うしかありません。しかし、時間をかけて試行錯誤して得たノウハウは、末長くモノを使い続けるために、本当の意味でサステナブルなものだと思います。
 
-- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)

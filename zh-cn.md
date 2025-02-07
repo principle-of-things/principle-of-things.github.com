@@ -1,4 +1,6 @@
-[[日本語](ja.md)] [[Español](es.md)] [[English](en.md)] [[中文 (繁體)](zh-tw.md)] [中文 (简体)]
+[[日本語](ja.md)] [[Español](es.md)] [[English](en.md)] [[中文（繁體）](zh-tw.md)] [中文（简体）]
+
+---
 
 # [事物的三原则](https://principle-of-things.github.io/)
 
@@ -12,5 +14,7 @@
 
 对于那些没有时间获取知识或经验的人来说，唯一的选择是支付专业人士来购买时间。然而，通过时间和试错获得的知识确实是长期使用物品的可持续方法。
 
-- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)

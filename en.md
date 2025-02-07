@@ -1,4 +1,6 @@
-[[日本語](ja.md)] [[Español](es.md)] [English] [[中文 (繁體)](zh-tw.md)] [中文 (简体)](zh-cn.md)
+[[日本語](ja.md)] [[Español](es.md)] [English] [[中文（繁體）](zh-tw.md)] [[中文（简体）](zh-cn.md)]
+
+---
 
 # [3 Principles of Things](https://principle-of-things.github.io/)
 
@@ -12,5 +14,7 @@ Whether it's a computer, home appliance, furniture, or car, any **thing** requir
 
 For those who don't have the time to gain knowledge or experience, the only option is to hire a professional and buy time. However, the know-how gained through trial and error over time is truly sustainable for long-term use of things.
 
-- CC BY 4.0; [https://principle-of-things.github.io/](https://principle-of-things.github.io/)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://github.com/principle-of-things/principle-of-things.github.com/blob/main/LICENSE "Content on the site of 'Principles of Things' is licensed under a Creative Commons Attribution 4.0 International license.")
+[![GitHub Repo stars](https://img.shields.io/github/stars/principle-of-things/principle-of-things.github.com)](https://github.com/principle-of-things/principle-of-things.github.com)
