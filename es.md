@@ -4,8 +4,6 @@
 
 # [3 Principios de las Cosas](https://principle-of-things.github.io/)
 
-No sé quién lo dijo, pero cuando lo escuchas, ciertamente tiene sentido. Estos son tres principios nacidos de la experiencia de nuestros predecesores.
-
 1. Para usar algo durante mucho tiempo, es necesario el mantenimiento.
 2. Para hacer algo barato, es necesario el conocimiento.
 3. Para hacer algo rápidamente, son necesarios la experiencia y la sabiduría.

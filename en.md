@@ -4,8 +4,6 @@
 
 # [3 Principles of Things](https://principle-of-things.github.io/)
 
-Don't know who said it, but when you hear it, it certainly makes sense. These are three principles born from the experience of our predecessors.
-
 1. To use something for a long time, maintenance is necessary.
 2. To do something cheaply, knowledge is necessary.
 3. To do something quickly, experience and wisdom are necessary.

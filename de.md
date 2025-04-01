@@ -4,8 +4,6 @@
 
 # [Die 3 Prinzipien der Dinge](https://principle-of-things.github.io/)
 
-Ich weiß nicht, wer es gesagt hat, aber wenn man es hört, macht es sicherlich Sinn. Dies sind drei Prinzipien, die aus den Erfahrungen unserer Vorgänger entstanden sind.
-
 1. Um etwas lange zu nutzen, ist Wartung notwendig.
 2. Um etwas günstig zu machen, ist Wissen notwendig.
 3. Um etwas schnell zu machen, sind Erfahrung und Weisheit notwendig.
